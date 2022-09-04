@@ -1,5 +1,7 @@
 # `@napi-rs/package-template`
 
+# [HashMap is not properly serialized to a JS object.](https://github.com/cloudflare/serde-wasm-bindgen/issues/10)
+
 ![https://github.com/napi-rs/package-template/actions](https://github.com/napi-rs/package-template/workflows/CI/badge.svg)
 
 > Template project for writing node packages with napi-rs.
